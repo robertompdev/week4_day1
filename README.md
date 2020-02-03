@@ -9,7 +9,7 @@
 
 ## Main points: object & array destructuring
 
-- Cuando los nombres de las variables coincidenc on los nombres de las propiedades a extraer de un obejto, la técnica de destructuración permite un código más liviano:
+- Cuando los nombres de las variables coinciden on los nombres de las propiedades a extraer de un obejto, la técnica de destructuración permite un código más liviano:
 
  ````javascript
  const person = {
